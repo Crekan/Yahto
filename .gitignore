@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+idea
+/back/.venv/
+/back/everest/db.sqlite3
