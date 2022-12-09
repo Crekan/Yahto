@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20f14ee6-b139-4864-b919-73b7d3f72998" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="20f14ee6-b139-4864-b919-73b7d3f72998" name="Changes" comment="add md file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/back/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/back/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,8 +83,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670579197393</updated>
-      <workItem from="1670579214760" duration="3245000" />
+      <workItem from="1670579214760" duration="3448000" />
     </task>
+    <task id="LOCAL-00001" summary="adding a Profile app and creating a Profile model">
+      <created>1670591166658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670591166658</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add md file">
+      <created>1670591223588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670591223588</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add md file">
+      <created>1670591275102</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670591275102</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +122,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding a Profile app and creating a Profile model" />
+    <MESSAGE value="add md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add md file" />
   </component>
 </project>
